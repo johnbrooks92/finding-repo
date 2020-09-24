@@ -2,3 +2,6 @@ Sigourney Weaver: Hello.
 
 Dory: Hello?
 
+Sigourney Weaver: I'm Sigourney Weaver.
+
+Dory: Oh. Hi, Sigourney. I need your help.
