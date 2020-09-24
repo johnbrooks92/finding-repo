@@ -5,3 +5,7 @@ Dory: Hello?
 Sigourney Weaver: I'm Sigourney Weaver.
 
 Dory: Oh. Hi, Sigourney. I need your help.
+
+Sigourney Weaver: Won't you please join us...
+
+Dory: Oh. Great, great, great.
