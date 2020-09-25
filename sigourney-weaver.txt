@@ -18,3 +18,6 @@ Dory: Sigourney Weaver, where are you?
 It is now Friday at 9am and I am using this file to practice Git functions with Samuel in our study session.
 
 We are currently discussing the functionality of .gitignore and git pull/push/cloning.
+
+We are now discussing the different repository functions on GitHub to link with IntelliJ. You can create .gitignore at repo setup and save a step.
+
