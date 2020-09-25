@@ -14,3 +14,5 @@ Sigourney Weaver: As we explore the wonders of the Pacific ocean... And the amaz
 Witness the majesty of the Beluga Whale.
 
 Dory: Sigourney Weaver, where are you?
+
+It is now Friday at 9am and I am using this file to practice Git functions with Samuel in our study session.
