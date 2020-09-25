@@ -23,3 +23,5 @@ We are now discussing the different repository functions on GitHub to link with 
 
 You know what I might just start using this repo for notes from class and have them stored on the hub.
 
+You can commit specific files using git add "" but it may be easier to use .gitignore to just ignore the ones you don't want and push the ones you do.
+
