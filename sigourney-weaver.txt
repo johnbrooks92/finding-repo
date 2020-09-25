@@ -16,3 +16,5 @@ Witness the majesty of the Beluga Whale.
 Dory: Sigourney Weaver, where are you?
 
 It is now Friday at 9am and I am using this file to practice Git functions with Samuel in our study session.
+
+We are currently discussing the functionality of .gitignore and git pull/push/cloning.
