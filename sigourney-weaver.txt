@@ -21,3 +21,5 @@ We are currently discussing the functionality of .gitignore and git pull/push/cl
 
 We are now discussing the different repository functions on GitHub to link with IntelliJ. You can create .gitignore at repo setup and save a step.
 
+You know what I might just start using this repo for notes from class and have them stored on the hub.
+
